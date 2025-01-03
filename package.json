@@ -1,5 +1,5 @@
 {
-  "name": "pm2",
+  "name": "reza-pm2",
   "preferGlobal": true,
   "version": "5.4.3",
   "engines": {
